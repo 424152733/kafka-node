@@ -1,0 +1,23 @@
+{
+  "name": "caizhen-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "express": "^4.13.3",
+    "kafka-node": "^0.2.29",
+    "q": "^1.4.1",
+    "redis": "^2.4.2",
+    "retry": "^0.8.0",
+    "soap": "^0.11.4"
+  },
+  "devDependencies": {
+    "kafka-node": "^0.2.29"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hq",
+  "license": "ISC"
+}
